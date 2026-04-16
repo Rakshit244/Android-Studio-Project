@@ -1,13 +1,5 @@
 *Chat app*
-A global, inclusive, and anonymous dating platform designed for university students. This app enables users from around the world to connect based on personality, interests, and meaningful conversations—without the influence of appearance or identity.
-
-*Vision:*
-To build a platform that connects students across the world, fostering genuine relationships in a safe, inclusive, and bias-free environment.
-
-Global Accessibility :- This app is designed for users worldwide, regardless of location, language, or ability.
-
--Available for Global Users
--Connect with pepople around the world
+An anonymous dating Android application that allows users to connect, chat, and build meaningful interactions without revealing their identity upfront.
 -Multi-Language Ready (future support)
 -Designed to support multiple languages
 -Optimized for Low Bandwidth
@@ -23,8 +15,8 @@ Built to ensure usability for all users:
 *Features:-*
 -Anonymous Profiles
 -No photos or personal identity required
--University-Based Matching
--Connect within verified university networks (with potential global expansion)
+-Matches users based on interests, preferences, or behavior
+-Users can choose to reveal their identity over time.
 
 *Real-Time Chat:-*
 -Fast and secure messaging system
